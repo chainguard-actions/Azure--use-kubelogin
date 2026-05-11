@@ -1,0 +1,7 @@
+{
+  "owner": "Azure",
+  "name": "use-kubelogin",
+  "visibility": "internal",
+  "description": "Setup kubelogin in GitHub Actions",
+  "block_publish": false
+}
