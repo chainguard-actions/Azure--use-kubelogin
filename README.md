@@ -9,6 +9,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
 | v1.2 | [`v1.2`](https://github.com/chainguard-actions/use-kubelogin/tree/v1.2) | — |
+| v1.3 | [`v1.3`](https://github.com/chainguard-actions/use-kubelogin/tree/v1.3) | — |
 
 ## Privacy
 
